@@ -23,6 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+|test| column|
+|a|10|
+|b|20|
+
 [Link](url) and ![Image](src)
 ```
 
